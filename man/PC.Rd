@@ -4,7 +4,7 @@
 \alias{PC}
 \title{Principle Component Analysis}
 \usage{
-PC(PC_no, X, C)
+PC(PC_no, X, C = NULL)
 }
 \arguments{
 \item{PC_no}{User specified number of Principle Components (PCs)}
