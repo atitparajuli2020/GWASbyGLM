@@ -9,7 +9,7 @@
 GWASbyGLM
 ---------
 
-The goal of GWASbyGLM is to perform Genome Wide Association Studies using Generelized linear model.THe final goal is to assess the association of genotypes with traits.
+The goal of GWASbyGLM is to perform Genome Wide Association Studies using Generelized linear model. The final goal is to assess the association of genotypes with traits.
 
 Installation
 ------------
