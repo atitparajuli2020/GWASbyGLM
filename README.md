@@ -20,7 +20,7 @@ You can install the development version from [GitHub](https://github.com/) with:
 # installation of package magick is required before installing this package
 install.packages("magick")
 # install.packages("devtools")
-devtools::install_github("cswarnita/GWASbyGLM")
+devtools::install_github("atitparajuli2020/GWASbyGLM")
 ```
 
 Example
