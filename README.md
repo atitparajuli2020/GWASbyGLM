@@ -17,6 +17,7 @@ Installation
 You can install the development version from [GitHub](https://github.com/) with:
 
 ``` r
+# installation of package magick is required before installing this package
 # install.packages("devtools")
 devtools::install_github("cswarnita/GWASbyGLM")
 ```
